@@ -1,3 +1,4 @@
+
 # React Native Blog Application
 
 ## How to run
@@ -8,3 +9,4 @@ if you don't want to use json server and use locally than
 
 
 * open terminal in the same directiry as index.js and use `npm start`
+
