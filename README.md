@@ -8,5 +8,5 @@
 if you don't want to use json server and use locally than
 
 
-* open terminal in the same directiry as index.js and use `npm start`
+* open terminal in the same directory as index.js and use `npm start`
 
