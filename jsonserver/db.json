@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Api Post",
+      "content": "content of my Post"
+    },
+    {
+      "title": "Shivangi",
+      "content": "♥️♥️",
+      "id": 4
+    },
+    {
+      "title": "Smriti",
+      "content": "Wake at 10",
+      "id": 5
+    }
+  ]
+}
