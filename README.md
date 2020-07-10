@@ -5,4 +5,4 @@
 # From the cmd copy the http://.....ngrok.io and save it to src/api/jsonserver.js
 #            baseURL : 'http://5250a0f6f605.ngrok.io/'
 #       Important Notes: this url changes every 7 hour so you need to update after every 7 hour
-# 3. In third cmd go to index.js file directory and run npm star
+# 3. In third cmd go to index.js file directory and run npm start
