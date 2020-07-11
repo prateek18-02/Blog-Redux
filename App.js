@@ -19,7 +19,7 @@ function App() {
         options={({navigation})=>({ title: 'BlogList',headerTitleAlign:"center",
              headerRight: () => (
                 <TouchableOpacity onPress={()=>navigation.navigate('CreateScreen')}>
-                    <Text style={{margin:15}}>GO</Text>
+                    <Text style={{margin:15}}>Go</Text>
                 </TouchableOpacity> 
             ),
         })
